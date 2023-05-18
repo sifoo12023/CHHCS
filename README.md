@@ -1,3 +1,3 @@
 # CHHCS
 
-[CHHCS.org] (https://www.chhcs.org) is the home page to Cherry Hill Chinese School. 
+[CHHCS.org](https://www.chhcs.org) is the home page to Cherry Hill Chinese School. 
